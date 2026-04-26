@@ -32,4 +32,4 @@ python filename.py
 
 📁 Note
 
-This folder belongs to Rihan Khureshi.
+This folder belongs to Rihan Khureshi
