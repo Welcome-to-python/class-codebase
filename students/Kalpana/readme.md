@@ -34,4 +34,4 @@ This folder contains Python programs created by Kalpana Galpuji.
 python filename.py
 📁 Note
 
-This folder belongs to Kalpana Galpuji.
+This folder belongs to Kalpana Galpuji
