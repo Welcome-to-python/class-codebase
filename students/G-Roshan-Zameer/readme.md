@@ -1,21 +1,37 @@
-# G ROSHAN ZAMEER- Python Work
+📘 README for **G Roshan Zameer**
 
-This folder contains Python programs created by G ROSHAN ZAMEER as part of the class-codebase repository.
+```markdown id="roshan_readme"
+# G Roshan Zameer - Python Assignment
 
-## 📌 Contents
-- hello.py → A simple Python program that prints "Hello World"
+This folder contains Python programs created by G Roshan Zameer.
 
-## 🧑‍💻 About
-This repository is used to track individual student work.  
-All files in this folder belong to G ROSHAN ZAMEER.
+## 📌 Programs Included
 
-## 🚀 How to Run
-1. Make sure Python is installed
-2. Open terminal in this folder
-3. Run:
+1. Hello World  
+2. Square of a number  
+3. Sum of two numbers  
+4. Even or Odd check  
+5. Print numbers from 1 to 10  
+6. Print list elements  
+7. Reverse a string  
+8. Maximum of three numbers  
+9. Factorial of a number  
+10. Count vowels in a string  
+11. Fibonacci series  
+12. Palindrome check  
+13. Find duplicate elements  
+14. Prime number check  
+15. Dictionary example  
+16. Sort a list  
+17. Common elements in lists  
+18. Word count from file  
+19. Class and object (OOP)  
+20. Exception handling  
 
-   python hello.py
+## ▶️ How to Run
 
-## 📁 Note
-- Only G ROSHAN ZAMEER should work inside this folder
-- Other students should not modify these files
+```bash
+python filename.py
+📁 Note
+
+This folder belongs to G Roshan Zameer.
