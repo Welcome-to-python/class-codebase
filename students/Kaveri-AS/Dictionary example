@@ -1,4 +1,0 @@
-student = {"name": "Kaveri", "age": 20, "course": "CS"}
-
-print(student["name"])
-print(student["age"])
