@@ -1,3 +1,3 @@
-x=24
-y=10
+x=int(input("enter a number:"))
+y=int(input("enter a number")) 
 print(x+y)
