@@ -1,8 +1,8 @@
-📘 README for G Roshan Zameer
+📘 README for Nayana-V
 
-# G Roshan Zameer - Python Assignment
+# Nayana V - Python Assignment
 
-This folder contains Python programs created by G Roshan Zameer.
+This folder contains Python programs created by Nayana V.
 
 ## 📌 Programs Included
 
