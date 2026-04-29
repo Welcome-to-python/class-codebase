@@ -1,0 +1,2 @@
+This i my pythom lab program 
+word count example
