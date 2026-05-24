@@ -1,0 +1,2 @@
+text = "I love python"
+print(len(text.split()))
