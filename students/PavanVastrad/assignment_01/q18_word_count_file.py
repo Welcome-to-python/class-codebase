@@ -1,5 +1,5 @@
 try:
-    with open(r"d:\Workspace\Python\class-codebase\students\sahil\sample.txt", "r") as file:
+    with open(r"D:\Workspace\Python_of_Classmates\pavan_python\class-codebase\students\PavanVastrad\assignment_01\sample.txt", "r") as file:
         text = file.read()
         words = text.split()
         print("Word count:", len(words))
