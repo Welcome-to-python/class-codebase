@@ -1,0 +1,6 @@
+Hello Python
+This is Assignment 02
+Learning File Handling
+Python is interesting
+
+

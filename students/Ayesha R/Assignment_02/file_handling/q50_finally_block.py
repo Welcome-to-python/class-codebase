@@ -1,0 +1,23 @@
+path = r"D:\Workspace\Python_of_Classmates\Ayesha_python\class-codebase\students\Ayesha R\Assignment_02\file_handling\sample.txt"
+
+file = None
+
+try:
+
+    file = open(path, "r")
+
+    content = file.readlines()
+
+    print(content)
+
+except FileNotFoundError:
+
+    print("File not found")
+
+finally:
+
+    if file:
+
+        file.close()
+
+    print("File closed successfully")
