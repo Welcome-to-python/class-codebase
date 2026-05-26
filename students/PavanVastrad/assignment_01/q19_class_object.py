@@ -8,5 +8,5 @@ class Student:
         print("Age:", self.age)
 
 
-s1 = Student("Sahil", 20)
+s1 = Student("Pavan", 20)
 s1.display()
