@@ -5,7 +5,7 @@ def student_profile(**kwargs):
 
 
 student_profile(
-    name="Sahil",
+    name="pavan",
     age=19,
     course="CSE"
 )
